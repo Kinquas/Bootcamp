@@ -1,0 +1,15 @@
+body {
+	background: lightpink;
+}
+
+#lucas {
+	background-color: rgb(0,100,200);
+}
+
+li {
+	border: red 2px solid;
+}
+
+.park {
+	text-decoration: line-through;
+}

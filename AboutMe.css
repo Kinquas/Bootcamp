@@ -1,0 +1,23 @@
+h1	{
+	color: rgba(0, 200, 100, .8);
+	/*border-color: orange;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid purple;
+}
+
+li {
+	color: rgb(0,0,0);
+}
+
+h4 {
+	color: yellow;
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://artnfictionfactory.files.wordpress.com/2014/03/flappyeol.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
